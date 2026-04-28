@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <title>觉灵纪元 · 觉灵纪元科技 | AI 技术引领者</title>
+  <meta name="description" content="深圳市觉灵纪元科技有限公司 - 人工智能应用软件开发、技术服务、技术咨询与技术推广。" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300;14..32,400;14..32,500;14..32,600;14..32,700&display=swap" rel="stylesheet" />
+  <style>
+    *{margin:0;padding:0;box-sizing:border-box}body{font-family:'Inter',-apple-system,BlinkMacSystemFont,'SF Pro Text','Helvetica Neue',sans-serif;background-color:#fff;color:#1d1d1f;line-height:1.5;scroll-behavior:smooth}.navbar{max-width:1200px;margin:0 auto;padding:1.2rem 2rem;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:1rem;backdrop-filter:blur(10px);background:rgba(255,255,255,.8);position:sticky;top:0;z-index:100;border-bottom:1px solid rgba(0,0,0,.05)}.logo h1{font-size:1.5rem;font-weight:600;letter-spacing:-.3px;background:linear-gradient(135deg,#1d1d1f,#3a3a3e);background-clip:text;-webkit-background-clip:text;color:transparent}.logo p{font-size:.7rem;color:#86868b;letter-spacing:.5px}.lang-switch{display:flex;gap:.5rem}.lang-btn{background:none;border:none;font-size:.9rem;font-weight:500;padding:.3rem .8rem;border-radius:30px;cursor:pointer;transition:.2s;color:#1d1d1f}.lang-btn.active{background:#1d1d1f;color:#fff}.lang-btn:not(.active):hover{background:#e8e8ed}.container{max-width:1200px;margin:0 auto;padding:0 2rem}.hero{padding:5rem 0 4rem;text-align:center}.hero h2{font-size:3rem;font-weight:700;letter-spacing:-.02em;margin-bottom:1rem;color:#1d1d1f}.hero p{font-size:1.25rem;color:#6e6e73;max-width:700px;margin:0 auto}.hero-badge{margin-top:2rem;display:flex;justify-content:center;gap:.8rem;flex-wrap:wrap}.badge{background:#f5f5f7;padding:.3rem 1rem;border-radius:40px;font-size:.8rem;font-weight:500;color:#1d1d1f}.section{padding:4rem 0;border-bottom:1px solid #f0f0f2}.section-title{font-size:2rem;font-weight:600;margin-bottom:1rem;letter-spacing:-.01em}.section-sub{color:#6e6e73;margin-bottom:2rem;font-size:1rem}.grid-2{display:grid;grid-template-columns:repeat(2,1fr);gap:2rem}.grid-3{display:grid;grid-template-columns:repeat(3,1fr);gap:2rem}.card{background:#fbfbfd;border-radius:28px;padding:1.8rem;transition:all .2s ease;border:1px solid #f0f0f2}.card:hover{transform:translateY(-4px);border-color:#d2d2d7;box-shadow:0 20px 30px -12px rgba(0,0,0,.05)}.card h3{font-size:1.5rem;font-weight:600;margin-bottom:.8rem}.card p{color:#6e6e73;font-size:.95rem}.info-grid{background:#f5f5f7;border-radius:32px;padding:1.8rem;margin-top:1rem}.info-row{display:flex;flex-wrap:wrap;border-bottom:1px solid #e5e5ea;padding:1rem 0}.info-row:last-child{border-bottom:none}.info-label{width:140px;font-weight:600;color:#1d1d1f}.info-value{flex:1;color:#3a3a3e;word-break:break-word}.contact-section{background:#f5f5f7;border-radius:32px;padding:2rem;margin:1rem 0 0}.contact-title{font-size:1.6rem;font-weight:600;margin-bottom:1.5rem;letter-spacing:-.01em}.contact-details{display:flex;flex-wrap:wrap;gap:2rem;justify-content:space-between}.contact-item{flex:1;min-width:200px}.contact-item h4{font-weight:600;margin-bottom:.5rem;color:#1d1d1f}.contact-item p{color:#3a3a3e;font-size:1rem}.contact-item a{color:#1d1d1f;text-decoration:none;border-bottom:1px solid #c6c6c8;transition:border-color .2s}.contact-item a:hover{border-bottom-color:#1d1d1f}footer{padding:3rem 2rem;text-align:center;color:#8e8e93;font-size:.8rem;background:#fafafc}@media (max-width:768px){.grid-2,.grid-3{grid-template-columns:1fr}.hero h2{font-size:2.2rem}.container{padding:0 1.2rem}.section-title{font-size:1.6rem}.info-label{width:100%;margin-bottom:.3rem}.contact-details{flex-direction:column;gap:1rem}}.lang-zh,.lang-en{transition:opacity .2s}body.lang-cn .lang-en{display:none}body.lang-en .lang-zh{display:none}
+  </style>
+</head>
+<body class="lang-cn">
+<div class="navbar">
+  <div class="logo" aria-label="觉灵纪元科技首页">
+    <h1>觉灵纪元</h1>
+    <p class="lang-zh">深圳市觉灵纪元科技有限公司</p>
+    <p class="lang-en">Shenzhen Jueling Epoch Technology Co., Ltd.</p>
+  </div>
+  <div class="lang-switch">
+    <button type="button" class="lang-btn active" data-lang="cn">中文</button>
+    <button type="button" class="lang-btn" data-lang="en">English</button>
+  </div>
+</div>
+
+<main>
+  <div class="hero">
+    <div class="container">
+      <h2 class="lang-zh">智能 · 灵境 · 未来</h2>
+      <h2 class="lang-en">Intelligence · Vision · Future</h2>
+      <p class="lang-zh">专注人工智能前沿技术，为企业提供创新解决方案与技术服务。</p>
+      <p class="lang-en">Focus on cutting-edge AI, delivering innovative solutions and technical services for enterprises.</p>
+      <div class="hero-badge">
+        <span class="badge">AI 研发</span>
+        <span class="badge">技术咨询</span>
+        <span class="badge">算法平台</span>
+        <span class="badge">数字文创</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="container">
+      <h3 class="section-title lang-zh">核心业务</h3>
+      <h3 class="section-title lang-en">Core Business</h3>
+      <p class="section-sub lang-zh">技术驱动 · 创新赋能</p>
+      <p class="section-sub lang-en">Technology-driven · Innovation Empowered</p>
+      <div class="grid-3">
+        <div class="card">
+          <h3 class="lang-zh">AI 软件开发</h3>
+          <h3 class="lang-en">AI Software Dev</h3>
+          <p class="lang-zh">人工智能基础软件、应用软件开发，构建智能系统。</p>
+          <p class="lang-en">AI foundation and application software, building intelligent systems.</p>
+        </div>
+        <div class="card">
+          <h3 class="lang-zh">算法与平台</h3>
+          <h3 class="lang-en">Algorithms & Platforms</h3>
+          <p class="lang-zh">理论与算法研发，人工智能通用系统及基础资源平台。</p>
+          <p class="lang-en">Theory & algorithm R&D, general AI systems and resource platforms.</p>
+        </div>
+        <div class="card">
+          <h3 class="lang-zh">技术咨询与推广</h3>
+          <h3 class="lang-en">Tech Consulting</h3>
+          <p class="lang-zh">技术开发、咨询、交流、转让、推广一体化服务。</p>
+          <p class="lang-en">Integrated services: development, consulting, transfer & promotion.</p>
+        </div>
+        <div class="card">
+          <h3 class="lang-zh">数字文化创意</h3>
+          <h3 class="lang-en">Digital Cultural Creative</h3>
+          <p class="lang-zh">数字文化创意内容应用，信息技术咨询与系统服务。</p>
+          <p class="lang-en">Digital cultural content, IT consulting & system services.</p>
+        </div>
+        <div class="card">
+          <h3 class="lang-zh">计算机系统服务</h3>
+          <h3 class="lang-en">Computer System Services</h3>
+          <p class="lang-zh">系统集成、软件运维及高性能计算解决方案。</p>
+          <p class="lang-en">System integration, software OPS & HPC solutions.</p>
+        </div>
+        <div class="card">
+          <h3 class="lang-zh">人工智能通用应用</h3>
+          <h3 class="lang-en">General AI Applications</h3>
+          <p class="lang-zh">通用人工智能系统、基础软件及行业定制化落地。</p>
+          <p class="lang-en">General AI systems, foundational software & customized deployment.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="container">
+      <h3 class="section-title lang-zh">公司信息</h3>
+      <h3 class="section-title lang-en">Company Profile</h3>
+      <div class="info-grid">
+        <div class="info-row">
+          <div class="info-label lang-zh">企业名称</div>
+          <div class="info-label lang-en">Company Name</div>
+          <div class="info-value">深圳市觉灵纪元科技有限公司 / Shenzhen Jueling Epoch Technology Co., Ltd.</div>
+        </div>
+        <div class="info-row">
+          <div class="info-label">统一社会信用代码</div>
+          <div class="info-value">91440300MAK2BCAR21</div>
+        </div>
+        <div class="info-row">
+          <div class="info-label lang-zh">企业类型</div>
+          <div class="info-label lang-en">Type</div>
+          <div class="info-value lang-zh">有限责任公司（自然人独资）</div>
+          <div class="info-value lang-en">Limited Liability Company (Wholly-owned by natural person)</div>
+        </div>
+        <div class="info-row">
+          <div class="info-label lang-zh">注册地址</div>
+          <div class="info-label lang-en">Registered Address</div>
+          <div class="info-value">深圳市南山区粤海街道麻岭社区高新中二道2号深圳软件园5栋401C<br>Room 401C, Building 5, Shenzhen Software Park, No.2 Gaoxin Middle 2nd Road, Maling Community, Yuehai Street, Nanshan District, Shenzhen, China</div>
+        </div>
+        <div class="info-row">
+          <div class="info-label lang-zh">经营范围</div>
+          <div class="info-label lang-en">Business Scope</div>
+          <div class="info-value lang-zh">技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；人工智能应用软件开发；人工智能通用应用系统；人工智能基础软件开发；人工智能理论与算法软件开发；人工智能基础资源与技术平台；软件开发；计算机系统服务；数字文化创意内容应用服务；信息技术咨询服务。</div>
+          <div class="info-value lang-en">Technical services, development, consulting, exchange, transfer, promotion; AI application software development; general AI systems; AI foundation software; AI theory & algorithm software; AI resource platforms; software development; computer system services; digital cultural creative content application; IT consulting services.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section" style="border-bottom:none;padding-bottom:2rem">
+    <div class="container">
+      <div class="contact-section">
+        <h3 class="contact-title lang-zh">联系方式</h3>
+        <h3 class="contact-title lang-en">Contact Us</h3>
+        <div class="contact-details">
+          <div class="contact-item">
+            <h4 class="lang-zh">📧 公司邮箱</h4>
+            <h4 class="lang-en">📧 Email</h4>
+            <p><a href="mailto:support@juelingtech.com">support@juelingtech.com</a></p>
+          </div>
+          <div class="contact-item">
+            <h4 class="lang-zh">📞 联系电话</h4>
+            <h4 class="lang-en">📞 Phone</h4>
+            <p><a href="tel:+8618576583620">+86 185 6583 6200</a></p>
+          </div>
+          <div class="contact-item">
+            <h4 class="lang-zh">📍 公司地址</h4>
+            <h4 class="lang-en">📍 Address</h4>
+            <p class="lang-zh">深圳市南山区粤海街道深圳软件园5栋401C</p>
+            <p class="lang-en">Room 401C, Building 5, Shenzhen Software Park, Nanshan District, Shenzhen, China</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section" style="border-top:1px solid #f0f0f2;border-bottom:none">
+    <div class="container" style="text-align:center">
+      <div style="font-size:2rem;margin-bottom:1rem">⚡</div>
+      <h3 class="lang-zh" style="font-weight:500">以技术觉知未来 · 以灵境创造价值</h3>
+      <h3 class="lang-en" style="font-weight:500">Awaken the future with technology · Create value with vision</h3>
+      <p class="lang-zh" style="color:#6e6e73;margin-top:1rem">深圳市觉灵纪元科技 —— 专注人工智能与数字创新</p>
+      <p class="lang-en" style="color:#6e6e73;margin-top:1rem">Shenzhen Jueling Epoch Technology – AI & Digital Innovation</p>
+    </div>
+  </div>
+</main>
+
+<footer>
+  <p>© 2025 深圳市觉灵纪元科技有限公司 | 版权所有</p>
+  <p style="margin-top:.5rem">Shenzhen Jueling Epoch Technology Co., Ltd. | All Rights Reserved</p>
+</footer>
+
+<script>
+  const langBtns=document.querySelectorAll('.lang-btn');const body=document.body;function setLanguage(lang){if(lang==='en'){body.classList.remove('lang-cn');body.classList.add('lang-en');document.documentElement.lang='en'}else{body.classList.remove('lang-en');body.classList.add('lang-cn');document.documentElement.lang='zh-CN'}langBtns.forEach(btn=>{const btnLang=btn.getAttribute('data-lang');if(btnLang===lang){btn.classList.add('active')}else{btn.classList.remove('active')}})}langBtns.forEach(btn=>{btn.addEventListener('click',()=>{const lang=btn.getAttribute('data-lang');setLanguage(lang)})});const userLang=(navigator.language||navigator.userLanguage).toLowerCase();if(userLang.startsWith('en')){setLanguage('en')}else{setLanguage('cn')}
+</script>
+</body>
+</html>
